@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SmartHealth Card System",
+  "description": "A digital patient history management system using QR codes for quick access to medical records. It provides separate portals for doctors and patients, powered by Firebase for secure authentication and data storage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
